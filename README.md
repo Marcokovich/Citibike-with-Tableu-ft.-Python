@@ -1,2 +1,4 @@
 # Citibike-with-Tableu-ft.-Python
-The Python code is used to clean up a data set by formatting an int measurement of tripduration into a datetime data type.
+[Link to Dashboard]: (https://public.tableau.com/app/profile/marcos.galarza/viz/CitiBike_16488582974950/Story1#1)
+
+
