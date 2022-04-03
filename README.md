@@ -2,9 +2,9 @@
 Link to Dashboard (https://public.tableau.com/app/profile/marcos.galarza/viz/CitiBike_16488582974950/Story1#1)
 ## 1. Project Overview
 ### Background:
-The 
+We are given a csv file with the data for a bike sharing venture in New York. We are to make an analysis for one of the key stakeholders to solidify a deal in Des Moines to make a similar venture. We are to format a column from the csv file before making the visualizations in Tableau.
 ### Purpose:
-The Python Code Provided will format the proper .csv file to be placed in the Resources folder. It will use the Datetime() function to format the tripduration column to be measured in seconds. Then that csv file is loaded into Tableau to create the 7 visualizations. Finally a final analysis will wrap up the project to explain the visualization of the data in a pitch to the Investors.
+The Python Code Provided will format the proper .csv file to be placed in the Resources folder. It will use the Datetime() function to format the tripduration column to be measured in seconds. Then that csv file is loaded into Tableau to create the 7 visualizations. Finally a final analysis will wrap up the project to explain the visualization of the data in a pitch to the stakeholder.
 ## 2. Results:
 ### Table 1: Checkout Times for Users:
 
@@ -39,3 +39,9 @@ The Python Code Provided will format the proper .csv file to be placed in the Re
 ![image](https://user-images.githubusercontent.com/71575748/161404362-b7d52632-b50f-404e-80c3-9e43a92a0c92.png)
 
 ## 3. Summary:
+- It appears that Thursday evenings seem to be the most popular usage time.
+- Males on average tend to use the service more than woman
+- Monday and Tuesday are the second most popular days
+### For further query:
+- 1.) A heatmap that is a mixture of tables 4 and 5. Looking at hourly breakdown based on user type. To see if terminals can be used to advertise subscriptions during ours with high usage from nonsubscribers.
+- 2.) A color coded bubble heatmap measuring usages at stations based on user types to see if certain areas are more popular amongst non subscribers to advertise the subsciption as certain stations.
